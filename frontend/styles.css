@@ -11,3 +11,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.video-player {
+    padding: 1vw;
+    border-radius: 2vw;
+    box-shadow: 0 0 1vw #fff;
+}
