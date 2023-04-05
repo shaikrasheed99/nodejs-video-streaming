@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    outline: none;
+    background-color: teal;
+    box-sizing: border-box;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
