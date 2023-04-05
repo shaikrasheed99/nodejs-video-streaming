@@ -11,15 +11,18 @@ $ git clone https://github.com/shaikrasheed99/nodejs-video-streaming.git
 $ cd nodejs-video-streaming
 ```
 
-### Install packages.
+### Client
 
 ```bash
-$ npm install
+$ cd frontend
 ```
 
-### Run backend server
+Open `index.html` file in browser.
+
+### Server
 
 ```bash
 $ cd backend
+$ npm install
 $ npm run start
 ```
